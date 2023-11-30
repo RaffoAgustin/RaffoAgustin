@@ -25,6 +25,8 @@
   [![My Skills](https://skillicons.dev/icons?i=js,html,css,php,python,java,ruby)](https://skillicons.dev)
 </div>
 
+<br><br>
+
 <h2 align="center">Sistemas Gestores de Datos y Frameworks</h2>
 
 <div align="center">
