@@ -5,9 +5,10 @@
   </ul>
 </div>
 
-## Introduction
-
-OSS Insight is a powerful tool that provides comprehensive, valuable, and trending insights into the open source world by analyzing 6+ billion rows of GitHub events data. 
+<li>
+  <ul>Estudiante E.E.S.T N°1</ul>
+  <ul>Futuro Técnico en Programación</ul>
+</li>
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
 
