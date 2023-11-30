@@ -23,6 +23,7 @@
 <h1>Herramientas en Prácticas</h1>
 <h2 align="center">Lenguajes de Programación</h2>
 <div align="center">
+  
   [![My Skills](https://skillicons.dev/icons?i=js,html,css,php,python,java,ruby)](https://skillicons.dev)
 </div>
 
