@@ -21,10 +21,10 @@ Como objetivo principal es la mejora a la institución, Organización u otra soc
 
 <h1>Herramientas en Prácticas</h1>
 <h2>Lenguajes de Programación</h2>
-[![My Skills](https://skillicons.dev/icons?i=js,html,css, php, pyhton, java, ruby )](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css, php, pyhton, java, ruby)](https://skillicons.dev)
 
 <h2>Sistemas Gestores de Datos y Frameworks</h2>
-[![My Skills](https://skillicons.dev/icons?i=mysql, spring, bootstrap, firebase, django, jquery )](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mysql, spring, bootstrap, firebase, django, jquery)](https://skillicons.dev)
 
 Contactame🤝
 
