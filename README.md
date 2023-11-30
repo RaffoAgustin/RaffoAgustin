@@ -21,7 +21,7 @@ Como objetivo principal es la mejora a la institución, Organización u otra soc
 
 <h1>Herramientas en Prácticas</h1>
 <h2>Lenguajes de Programación</h2>
-[![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev);
+[![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
 
 
 Contactame🤝
