@@ -16,7 +16,7 @@
 <li>Orientación a Programación</li><br>
 <li>Me Involucré en mis ultimos años en el mundo digital, realizando Sitios Online, Juegos, Diseños, entre otros.</li><br>
 
-<br><br>
+<br>
 
 <h2 align="center">Lenguajes de Programación</h2>
 <div align="center">
@@ -32,6 +32,8 @@
   
 [![My Skills](https://skillicons.dev/icons?i=mysql,spring,bootstrap,firebase,django,jquery)](https://skillicons.dev)
 </div>
+
+<br>
 
 ## Objetivo
 
