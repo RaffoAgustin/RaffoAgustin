@@ -1,24 +1,18 @@
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block"> Raffo Agustín 👋</h1></summary>
+    <summary><h1 style="display: inline-block"> Técnica en Programación - Raffo Agustín 👋</h1></summary>
   </ul>
 </div>
-
-<style>
-  .hola{
-    width:2000px;
-  }
-</style>
 
 
 ## Introdución
 
-<img class="hola" align="left" alt="Coding" width="300" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
+<img align="left" alt="Coding" width="300" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 
-   Soy Raffo Agustín. Estudiante de último año en la Secundaria E.E.S.T N°°1, Monte Grande, Argentina. Tengo 18 años y actualmente me 
+<p>Soy Raffo Agustín. Estudiante de último año en la Secundaria E.E.S.T N°°1, Monte Grande, Argentina. Tengo 18 años y actualmente me 
    encuentro estudiando la orientación de Programación. Estoy comprometido con la práctica en esta área. Me Involucré en mis ultimos años 
-   en el mundo digital, realizando Sitios Online, Juegos, Diseños, entre otros.
+   en el mundo digital, realizando Sitios Online, Juegos, Diseños, entre otros.</p>
 
 <br><br><br><br><br>
 
