@@ -10,9 +10,7 @@
 
 <img align="left" alt="Coding" width="300" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 
-<li>
-  <ul>Mi nombre es Raffo Agustín</ul>
-</li>
+<li>Mi nombre es Raffo Agustín</li>
 
 <p align="right">Soy Raffo Agustín. Estudiante de último año en la Secundaria E.E.S.T N°°1, Monte Grande, Argentina. Tengo 18 años y actualmente me encuentro estudiando la orientación de Programación. Estoy comprometido con la práctica en esta área. Me Involucré en mis ultimos años en el mundo digital, realizando Sitios Online, Juegos, Diseños, entre otros.</p>
 
