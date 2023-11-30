@@ -18,7 +18,6 @@
 
 <br><br>
 
-Herramientas en Prácticas <br>
 <h2 align="center">Lenguajes de Programación</h2>
 <div align="center">
   
