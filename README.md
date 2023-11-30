@@ -33,7 +33,7 @@
 [![My Skills](https://skillicons.dev/icons?i=mysql,spring,bootstrap,firebase,django,jquery)](https://skillicons.dev)
 </div>
 
-<br><br>
+<br><br><br>
 
 ## Objetivo
 
