@@ -19,8 +19,12 @@ Soy Raffo Agustín. Estudiante de último año en la Secundaria E.E.S.T N°°1, 
 
 Como objetivo principal es la mejora a la institución, Organización u otra sociedad en la cual sea dedicado mi labor. Brindaré de todos mis servicios que sean requeridos para el beneficio del mismo. Mi dedicación es plena según a lo que me dedique. Trabajo en equipo con las personas a las que se me adjunte y no tengo problemas con eso.
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
+<h1>Herramientas en Prácticas</h1>
+<h2>Lenguajes de Programación</h2>
+[![My Skills](https://skillicons.dev/icons?i=js,html,css, php, pyhton, java, ruby )](https://skillicons.dev)
 
+<h2>Sistemas Gestores de Datos y Frameworks</h2>
+[![My Skills](https://skillicons.dev/icons?i=mysql, spring, bootstrap, firebase, django, jquery )](https://skillicons.dev)
 
 Contactame🤝
 
