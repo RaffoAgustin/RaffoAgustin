@@ -18,10 +18,10 @@
 
 
 
-<br><br><br><br><br>
+<br><br><br>
 
 <h1>Herramientas en Prácticas</h1>
-<h2>Lenguajes de Programación</h2>
+<h2 align="center">Lenguajes de Programación</h2>
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,php,python,java,ruby)](https://skillicons.dev)
 
