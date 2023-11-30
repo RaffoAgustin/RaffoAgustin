@@ -10,8 +10,7 @@
 
 Soy Raffo Agustín. Estudiante de último año en la Secundaria E.E.S.T N°°1, Monte Grande, Argentina. Tengo 18 años y actualmente me encuentro estudiando la orientación de Programación. Estoy comprometido con la práctica en esta área. Me Involucré en mis ultimos años en el mundo digital, realizando Sitios Online, Juegos, Diseños, entre otros.
 
-<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif" >
-<br>
+<img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 
 ## Objetivo
 
