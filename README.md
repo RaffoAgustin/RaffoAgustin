@@ -33,14 +33,12 @@
 [![My Skills](https://skillicons.dev/icons?i=mysql,spring,bootstrap,firebase,django,jquery)](https://skillicons.dev)
 </div>
 
-<br><br><br>
 
 ## Objetivo
 
 Como objetivo principal es la mejora a la institución, Organización u otra sociedad en la cual sea dedicado mi labor. Brindaré de todos mis servicios que sean requeridos para el beneficio del mismo. Mi dedicación es plena según a lo que me dedique. Trabajo en equipo con las personas a las que se me adjunte y no tengo problemas con eso.
 
-
-
+<br><br><br>
 
 ## Contactame🤝
 
